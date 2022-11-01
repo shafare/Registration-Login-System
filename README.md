@@ -1,3 +1,4 @@
 # Registration-Login-System
 
-Tugas membuat halaman registrasi, login, dan logout menerapkan session dan cookie.
+Tugas mata kuliah Pemrograman Web<br>
+Membuat halaman registrasi, login, dan logout menerapkan session dan cookie.
